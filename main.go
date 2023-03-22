@@ -66,7 +66,7 @@ func main() {
 	// 		// some code here
 	// 	case "Berlin":
 	// 		// some code here
-	// 	case "HOng Kong":
+	// 	case "Hong Kong":
 	// 		// some code here	
 	// 	default:
 	// 		fmt.Print("No valid city selected")
