@@ -14,7 +14,7 @@
 #### In the root directory:
 - Install Go
 ```bash
-    $ sudo apt update && sudo apt upgrade && sudo apt install golang
+    $ sudo apt install golang
 ```
 - Build and run server
 ```bash
