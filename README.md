@@ -10,12 +10,12 @@
 ```bash
     $ git clone git@github.com:kayprogrammer/booking_app.git
 ```
-
-#### In the root directory:
+#### In any terminal
 - Install Go
 ```bash
     $ sudo apt install golang
 ```
+#### In the root directory:
 - Build and run server
 ```bash
     $ go run main.go
